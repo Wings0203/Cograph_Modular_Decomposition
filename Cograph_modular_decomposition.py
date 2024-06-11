@@ -1,6 +1,5 @@
 from Trees import Tree
 from sage.all import Graph,graphs
-from Cograph_recognition import is_cograph
 import itertools
 
 def is_cograph(g):
